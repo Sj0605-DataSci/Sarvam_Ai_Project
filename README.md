@@ -1,5 +1,5 @@
-# Sarvam_Ai_hiringtask
-## Sarvam Ai - Hiring Task
+# Sarvam_Ai_Project
+## Sarvam Ai
 
 ### Task 1: Semantic Chunking of a YouTube Video 📹
 Dive into extracting meaningful audio-text pairs from a specific video. 
